@@ -56,7 +56,7 @@ if [ ! $(which rbenv) ]; then
   echo "
 Seems you still have not added 'rbenv' to the load path:
 
-# ~/.bash_profile:
+# ~/.zshrc:
 
 export RBENV_ROOT=\"\${HOME}/.rbenv\"
 
